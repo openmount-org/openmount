@@ -1,2 +1,3 @@
 # openmount
-Montura de codigo abierto 
+Montura para telescopio de codigo abierto 
+La montura de todos
